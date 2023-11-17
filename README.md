@@ -14,8 +14,8 @@ Ensure you have the following environment before starting:
 To play the game, navigate to the game directory and run:
 `python main.py`
 Upon running, you'll be presented with an introductory screen.
-<img src="game_screenshot.png" alt="Game Screenshot" width="400"/>
-<img src="game_screenshot2.png" alt="Game Screenshot2" width="400"/>
+<img src="game_screenshot.png" alt="Game Screenshot" width="300"/>
+<img src="game_screenshot2.png" alt="Game Screenshot2" width="300"/>
 
 
 ## Game Overview
